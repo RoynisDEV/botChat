@@ -1,0 +1,4 @@
+openai
+gtts
+playsound
+pyttsx3
