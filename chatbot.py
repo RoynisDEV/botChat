@@ -1,7 +1,7 @@
 import openai 
 import pyttsx3
 
-openai.api_key = "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"
+openai.api_key = "Token de openIA"
 
 conversation = ""
 
